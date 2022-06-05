@@ -22,7 +22,8 @@ The config_install.sh script contains the following package managers:
 - Vitals  (https://extensions.gnome.org/extension/1460/vitals/)
 - Dash to Dock Cosmic (https://extensions.gnome.org/extension/5004/dash-to-dock-for-cosmic/)
 
-
+## Workstation Screenshot
+![Azure Ubuntu Workstation](/assets/img/image1.png)
 
 ## Feedback
 Please report any bugs via issues here on GitHub and I will look to fix, or try and fix yourself and submit a pull request :)
