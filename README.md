@@ -1,4 +1,4 @@
-# Ubuntu Azure Infrastructure Development Setup Scripts
+# Azure Infrastructure Development Setup Scripts (Ubuntu)
 Repo containing installation scripts for your Azure infrastructure development workstation.
 
 ## Authors
@@ -6,7 +6,7 @@ Repo containing installation scripts for your Azure infrastructure development w
 - Kevin Evans - GitHub: @kevinevans1 - Twitter: https://twitter.com/thekevinevans
 
 ## Brief
-As I continue my open source journey , I though it best to share my setup scripts for configuring your Ubuntu workstation for Azure infrastructure development. These script's will install dependencies for getting you up and running with deploying IaC into Azure using Terraform,Bicep,Powershell and Azure CLI.
+As I continue my open source journey , I thought it best to share my setup scripts for configuring your Ubuntu workstation for Azure infrastructure development. These script's will install dependencies for getting you up and running with deploying IaC into Azure using Terraform,Bicep,Powershell and Azure CLI.
 
 The config_install.sh script contains the following package managers:
 
