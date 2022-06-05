@@ -1,5 +1,5 @@
 # Ubuntu Azure Infrastructure Development Setup Scripts
-Repo containing installation scripts for a Azure infrastructure development workstation.
+Repo containing installation scripts for your Azure infrastructure development workstation.
 
 ## Authors
 
