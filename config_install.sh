@@ -24,7 +24,6 @@ flatpak install flathub com.spotify.Client -y
 flatpak install flathub org.videolan.VLC -y
 flatpak install flathub com.discordapp.Discord -y
 flatpak install flathub org.gimp.GIMP -y
-flatpak install flathub com.visualstudio.code -y
 flatpak install flathub com.microsoft.Edge -y
 flatpak install flathub us.zoom.Zoom -y
 flatpak install flathub com.slack.Slack -y
@@ -32,8 +31,14 @@ flatpak install flathub com.microsoft.Teams -y
 flatpak install flathub com.obsproject.Studio -y
 flatpak install flathub io.github.shiftey.Desktop -y
 flatpak install flathub com.getpostman.Postman -y
-flatpak install flathub org.libreoffice.LibreOffice -y
+#flatpak install flathub org.libreoffice.LibreOffice -y
 flatpak install flathub org.gnome.Extensions -y
+flatpak install flathub com.google.Chrome -y
+flatpak install flathub io.github.mimbrero.WhatsAppDesktop -y
+flatpak install flathub org.mozilla.Thunderbird -y
+flatpak install flathub org.wireshark.Wireshark -y
+flatpak install flathub com.gitlab.bitseater.meteo -y
+flatpak install flathub org.gnome.Maps -y
 
 #Powershell 7
 # Update the list of packages
